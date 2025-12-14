@@ -77,7 +77,7 @@ pytest 기반 단위 테스트 추가
 
 Redis 없이, 서버에서 시간마다 이미지 검색 처리를 하도록, 검색 서버를 별도로 구현 
 
-🗺 시현 PPT
+🗺 시연 PPT
 https://docs.google.com/presentation/d/1BKcQu7VAuFIlppJSzQg8yMZ0Rw7T2qOT/edit?slide=id.g3a69ba4f913_2_1#slide=id.g3a69ba4f913_2_1
 
 📌 API 명세
